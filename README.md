@@ -12,7 +12,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-<!-- [Live Demo Link](https://raw.githack.com/ebeagusamuel/newsweek-clone/newsweek-clone/index.html) -->
+[Live Demo Link](https://raw.githack.com/ebeagusamuel/Chika-s-form-design/master/sign-in.html)
 
 ## Getting Started
 
