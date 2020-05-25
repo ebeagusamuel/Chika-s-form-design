@@ -55,7 +55,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Shout-out to Chika Osimiri Christiana for creating the designs for the forms. 
+- Shout-out to Osimiri Chika Christiana for creating the designs for the forms. 
 
 ## 📝 License
 
